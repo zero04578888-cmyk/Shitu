@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 《仕途》图标前景：赤金印环与中央的一横一竖意象。 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#C9A961"
+        android:strokeWidth="5"
+        android:pathData="M54,30 a24,24 0 1 1 -0.01,0 z" />
+    <path
+        android:fillColor="#C9A961"
+        android:pathData="M51.5,40 h5 v28 h-5 z" />
+    <path
+        android:fillColor="#C9A961"
+        android:pathData="M42,51.5 h24 v5 h-24 z" />
+    <path
+        android:fillColor="#C9A961"
+        android:pathData="M45,62 h18 v4 h-18 z" />
+</vector>
